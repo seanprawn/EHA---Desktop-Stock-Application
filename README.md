@@ -20,7 +20,7 @@ WAMP server for the windows 7 implementation. Open-source software
 SymmetricDS(Java-based) was used for database sync.
 
 ### Documentation: 
-The documentation provided encompasses the entire project, I tried to be as detailed as possible and included everything from planning to implemenation. This was also submitted as part of my assignments for the final year project. 
+The documentation provided encompasses the entire project, I tried to be as detailed as possible and included everything from planning to implemenation. (This was also submitted as assignments for the final year project) 
 ### Included in the documentation attached you will find: 
 * In depth descriptions of the proposed system,scope, client and community involved
 * Literature review and research
