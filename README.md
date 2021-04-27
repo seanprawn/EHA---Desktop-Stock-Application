@@ -4,7 +4,7 @@ A Desktop application written in JavaFX.
 ### EHA Supplement Stock Control System
 
 ### Description:
-This is a desktop application that I wrote by myself using JavaFX. I also submitted this as my final year computer science project .
+This is a desktop application that I wrote by myself using Java. I also submitted this as my final year computer science project .
 It uses a local database, and syncs automatically in the
 background to an external database. 
 The System was developed with a fictional client in mind, but it was developed according to specifications and requirements provided by the university. I tried to design and implement the system in a way that would help to easily replace the “paper-based” system at a conventional small business, and at
