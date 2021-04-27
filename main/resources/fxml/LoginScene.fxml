@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="com.seanprawn.eha_stocksystem.FXMLController">
+    <children>
+      <BorderPane layoutX="68.0" prefHeight="200.0" prefWidth="200.0">
+         <center>
+              <Label fx:id="label" minHeight="16" minWidth="69" BorderPane.alignment="CENTER" />
+         </center>
+         <left>
+              <Button fx:id="button" onAction="#handleButtonAction" text="Click Me!" BorderPane.alignment="CENTER" />
+         </left>
+      </BorderPane>
+    </children>
+</AnchorPane>

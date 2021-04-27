@@ -1,0 +1,125 @@
+.button {
+    /*-fx-background-color: ;*/
+    /*-fx-fit-to-width: true;*/
+    -fx-font-weight: bold;
+}
+
+#root {
+ /*-fx-background-color:  linear-gradient(lightgray, gray);*/
+ -fx-background-color: linear-gradient(#ffffff,#ffffff,#ccffff);
+ -fx-border-color: white;
+ -fx-border-radius: 20;
+ -fx-padding: 10 10 10 10;
+ -fx-background-radius: 10;
+ -fx-effect: dropshadow(three-pass-box, grey, 10, 0, 4, 4);
+ /*-fx-alignment: CENTER;*/
+ 
+}
+
+#gp {
+    /*-fx-background-color:  linear-gradient(#ffffff,#ccffff);*/
+    -fx-alignment:CENTER;
+     /*-fx-background-color:  linear-gradient(lightgray, gray);*/
+     /*-fx-background-color:*/ 
+}
+
+#btnLogin {
+    -fx-background-radius: 30, 30, 29, 28;
+    -fx-padding: 3px 10px 3px 10px;
+/*    -fx-background-color: linear-gradient(#3399ff)/#00ccff );
+     -fx-background-color: linear-gradient(#3399ff)/#00ccff );*/
+}
+
+#text {
+ -fx-text-fill: #ffffff;
+}
+#fp {
+    /*-fx-background-color: inherit;*/
+    /*-fx-alignment: CENTER;*/
+    /*-fx-border-radius: 50;*/
+}
+
+#img {
+    /*-fx-padding: 6000px 600px 600px 600px;*/
+}
+
+#sm {
+    -fx-background-color: linear-gradient(lightgray,gray);
+    /*-fx-border-insets: 200 0 0 0;*/
+    /*-fx-background-height: 500;*/ 
+    /*-fx-background-width: 100%;*/
+    /*-fx-background-border: black;*/
+    /*-fx-button-width: 100%;*/
+    -fx-background-insets: 150 0 0 0;
+    /*-fx-padding: 1 1 1 1;*/
+}
+
+#labelDash {
+    -fx-label-line-length: 10;
+}
+
+#suppl {
+    -fx-text-fill: #ffffff;
+    
+}
+
+#client {
+    -fx-text-fill: #ffffff;
+    
+}
+
+#btnSideMenu {
+    -fx-intrinsic-width: 100%;
+}
+
+#bar {
+/*    .default-color0.chart-series-line {
+    -fx-stroke:#3399ff; 
+}
+.default-color1.chart-series-line {
+    -fx-stroke: #ffff00; 
+}
+.default-color2.chart-series-line {
+    -fx-stroke: #4db764; 
+}
+.default-color3.chart-series-line {
+    -fx-stroke: #ff3333; 
+}*/
+    -fx-background-color: transparent;
+    -fx-background-radius: 0;
+    -fx-chart-plot-background: linear-gradient(lightGray, gray);
+    -fx-stroke-default-color1: #4db764;
+    -fx-stroke-default-color2: #34C38F;
+    /*-fx-stroke-default-color2: #3399ff;*/
+    -fx-stroke-default-color3: #ffff00;
+    -fx-bar-fill: green;
+}    
+
+#error {
+    -fx-text-fill: red;
+}
+
+#clock {
+    -fx-text-fill: #ff0000;
+    -fx-font-size: 11pt ;
+    -fx-font-family: "Comic Sans MS";
+    -fx-effect: dropshadow(three-pass-box, grey, 10, 0, 4, 4);
+}
+
+#header{
+    /*-fx-text-fill: #00cccc;*/
+    -fx-text-fill: #006699;
+    -fx-font-size: 12pt ;
+    -fx-font-family: "Impact, Charcoal, sans-serif";
+    -fx-effect: dropshadow(three-pass-box, grey, 10, 0, 4, 4);
+}
+/*}*/
+/*.default-color0.chart-series-line {
+    -fx-stroke:#3399ff; 
+}
+.default-color1.chart-series-line {
+    -fx-stroke: #ffff00; 
+}
+.default-color3.chart-series-line {
+    -fx-stroke: #ff3333; 
+}*/
