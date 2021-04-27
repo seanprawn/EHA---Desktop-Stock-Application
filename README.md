@@ -12,7 +12,7 @@ the same time aid and enhance business goals. The system was built with ease of 
 navigation between components, reflects this ideology. I tried to take as much responsibility as possible away from the user, so that the user can make use of the technology to be productive, and not waste time.
 
 ### Technologies used:
-I used Java - JavaFX, with Maven as dependancy library
+Using an MVC design opattern, Java - JavaFX, with Maven as dependancy library
 management, I Integrated JUnit for unit tests. Netbeans was used as an 
 IDE. I used GIT as version control system. I Used the MAMP
 stack for apache server and MySql database to implement a dev/test environment. Also used
