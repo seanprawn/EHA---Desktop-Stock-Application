@@ -13,7 +13,7 @@ navigation between components, reflects this ideology. I tried to take as much r
 
 ### Technologies used:
 Using an MVC design opattern, Java - JavaFX, with Maven as dependancy library
-management, I Integrated JUnit for unit tests. Netbeans was used as an 
+management, I used open source apache PDF Box to create pdf reports. I Integrated JUnit for unit tests. Netbeans was used as an 
 IDE. I used GIT as version control system. I Used the MAMP
 stack for apache server and MySql database to implement a dev/test environment. Also used
 WAMP server for the windows 7 implementation. Open-source software
